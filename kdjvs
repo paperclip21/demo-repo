@@ -1,0 +1,18 @@
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex 0249a42..82267e3 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -6,10 +6,4 @@[m [mThis is the new Updated version of git hub.[m
+ no cofer write like this[m
+ [m
+ ##  addong another line of code[m
+[31m-Wach tutorial on youtube[m
+[31m-[m
+[31m-## what tpoj knvjdf ksdn jsdg[m
+[31m-jnvn k vk kkr[m
+[31m-[m
+[31m-[m
+[31m-gerjngerj[m
+\ No newline at end of file[m
+[32m+[m[32mWach tutorial on youtube[m
+\ No newline at end of file[m
